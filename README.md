@@ -1,4 +1,4 @@
-# bs-hrml-tools
+# bs-html-tools
 
 > A Vue.js project
 
